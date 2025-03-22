@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue chez Messire - Location Immobilière</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue chez Messire</h1>
+        <p>Votre expert en location immobilière à Sicap Mbao</p>
+    </header>
+
+    <section class="hero">
+        <img src="WhatsApp Image 2025-03-21 à 23.09.50_41bc3e19.jpg" alt="Belle maison en location">
+    </section>
+
+    <section class="services">
+        <h2>Nos services</h2>
+        <div class="service">
+            <h3>🏡 Conseils immobiliers</h3>
+            <p>Nous vous offrons des conseils personnalisés pour vous aider a faire les meilleurs choix en matière d'achat, de vente ou de location de biens immobiliers.</p>
+        </div>
+        <div class="service">
+            <h3>🤝 Assistance professionnelle</h3>
+            <p>Bénéficiez d'un accompagnement sur mesure pour toutes vos transactions immobilières, de la recherche du bien idéal à la signature du contrat.</p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Contactez-nous</h2>
+        <p>📍 Adresse : Sicap Mbao</p>
+        <p>📞 Téléphone : 772602112 / 761836019</p>
+        <p>📧 Email : <a href="mailto:dembatop644@gmail.com">dembatop644@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Messire Immobilier - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
